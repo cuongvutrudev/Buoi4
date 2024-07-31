@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_buoi4\bai2\bai2\bin\Debug\bai2.exe.config
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_buoi4\bai2\bai2\bin\Debug\bai2.exe
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_buoi4\bai2\bai2\bin\Debug\bai2.pdb
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_buoi4\bai2\bai2\obj\Debug\bai2.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_buoi4\bai2\bai2\obj\Debug\bai2.exe
+E:\LuuDuLieuSinhVien\HuynhQuocCuong_buoi4\bai2\bai2\obj\Debug\bai2.pdb
